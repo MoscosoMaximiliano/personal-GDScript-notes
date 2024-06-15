@@ -9,8 +9,8 @@ func _input(event):
 			print(health)
 ```
 > [!NOTE]
->Para saber sobre lo que es la linea `if health > 0:` consultar en [[If-statement]]
->Para saber sobre lo que es la linea `event.is_action_pressed("my_action"):` consultar en [[Input]]
+>Para saber sobre lo que es la linea `if health > 0:` consultar en [If-statement](If-statement.md)
+>Para saber sobre lo que es la linea `event.is_action_pressed("my_action"):` consultar en [Input](Input.md)
 
 A continuación se va a mostrar una tabla de los tipos de asignación para la variable, todas estas son la versión resumida de hacer el algoritmo completo
 
@@ -91,5 +91,5 @@ Tambien podemos hacer que nuestra variable se exponga al editor de godot usando 
 ```python
 @export var damage := 100
 ```
-![[VariableExported.png]]
+![VariableExported](VariableExported.png)
 

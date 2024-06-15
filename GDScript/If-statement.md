@@ -30,7 +30,7 @@ else:
 	print("Play safe my dude")
 ```
 > [!NOTE]
-> En caso de no saber lo que es `var` consultar en [[Variables]]
+> En caso de no saber lo que es `var` consultar en [Variables](Variables.md)
 
 Tambien tenemos un caso mas que es el `elif`, este actua como combinación de ambos y se utiliza cuando queremos tener varias condiciones. Podemos poner cuantos `elif` querramos
 ```python

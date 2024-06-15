@@ -1,6 +1,6 @@
 Los arrays son variables que contienen valores de cualquier tipo, como por dar un ejemplo, un `inventario` 
 >[!NOTE]
->Si estas siguiendo la lista de temas, a partir de ahora toda declaración de variables se va a hacer con tipos, sino ir a la página [[Variables]]
+>Si estas siguiendo la lista de temas, a partir de ahora toda declaración de variables se va a hacer con tipos, sino ir a la página [Variables](Variables.md)
 ```python
 var inventory: Array[String] = ["Potion", "Sword", "Gold", 12]
 ```
