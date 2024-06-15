@@ -91,5 +91,5 @@ Tambien podemos hacer que nuestra variable se exponga al editor de godot usando 
 ```python
 @export var damage := 100
 ```
-![VariableExported](VariableExported.png)
+![VariableExported](Images/VariableExported.png)
 

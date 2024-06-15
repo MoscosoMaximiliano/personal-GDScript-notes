@@ -20,10 +20,10 @@
 - [Call down, signal up](Call%20down,%20signal%20up.md)
 - [Styles](Styles.md)
 Godot es un motor gráfico que funciona con nodos
-![NodeImage](NodeImage.png)
+![NodeImage](Images/NodeImage.png)
 Para crear un script se debe dar en el scroll pequeño con el singo + verde y luego hacerle un attach
-![ScriptCreation](ScriptCreation.png)
-![CodeBase](CodeBase.png)
+![ScriptCreation](Images/ScriptCreation.png)
+![CodeBase](Images/CodeBase.png)
 Para mostrar cosas en la consola podemos hacer uso de la función
 ```python
 # All this code is written on GDScipt but show as python for highlighting
